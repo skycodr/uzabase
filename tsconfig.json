@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es6" /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */,
+
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "allowJs": false,
+    "outDir": "build",
+    "removeComments": true,
+    "noEmit": false,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "exclude": ["node_modules", "documentation"]
+}
